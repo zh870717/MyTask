@@ -1,0 +1,139 @@
+body,div,span,ul,li,h1,h2,h3,a,p {margin:0;padding:0;}
+img {border:none;}
+a {
+    text-decoration:none;
+    color:#fff;
+    font-size:1.5em;}
+
+@font-face {
+    font-family:"Hiragino Sans GB W3";
+    src:url(http://124.14.17.160/ws.cdn.baidupcs.com/file/3b2646a48566403a55f62ceddbecbe18?bkt=p2-qd-692&xcode=b90597c395a624a0a322baf538ad33978cb372465f581372a989d2347423dd6e&fid=1429285228-250528-1061991233585102&time=1442203822&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-A8I3f5VilX%2B9dFaXgktzZXZWz58%3D&to=lc&fm=Nan,B,G,bs&sta_dx=13&sta_cs=222&sta_ft=otf&sta_ct=1&fm2=Nanjing,B,G,bs&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=14003b2646a48566403a55f62ceddbecbe18ee39c4bd000000c90f14&sl=83624015&expires=8h&rt=sh&r=360801298&mlogid=2315457358&vuk=1429285228&vbdid=1378260331&fin=Hiragino%20Sans%20GB%20W3.otf&fn=Hiragino%20Sans%20GB%20W3.otf&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=5949126242494041644&dp-callid=0.1&wshc_tag=0&wsts_tag=55f648ae&wsid_tag=e82b2a8&wsiphost=ipdbm),
+    url(../font/Hiragino%20Sans%20GB%20W3.otf);
+}
+
+html {
+    font-size:62.5%;
+}
+
+body {
+    font-family:"Hiragino Sans GB W3",sans-serif;
+    text-align:center;
+    margin:0 auto;
+}
+
+.wrap {
+    width:64em;
+    margin:0 auto;
+    color:#fff;
+    max-width:100%;
+    background:#68cdd5;
+}
+
+.header {
+    background:#22292c;
+    padding:3% 0;
+    overflow: hidden;
+}
+
+.return {
+    background:#22292c;
+    margin-left:2.5%;
+    text-align:left;
+    width:21%;
+}
+
+.return .back {
+    display:block;
+    float:left;
+    width:21%;
+    margin-top:10%;
+}
+.back img {
+    width:100%;
+    max-width:23px;
+}
+.return a {
+    display:block;
+    float:left;
+    width:67%;
+    margin-top:15%;
+    text-indent:0.5em;
+}
+
+.title {
+    font-size:2.4em;
+    margin-left:20%;
+    margin-top:2%;
+    float:left;
+    background:#22292c;
+    overflow:hidden;
+}
+
+.more {
+    padding-right:2.5%;
+    float:right;
+    background:#22292c;
+    width:10%;
+    overflow:hidden;
+}
+.more img {width:100%;max-width:50px;margin-top:10%;}
+
+.arrow {
+    text-align:left;
+    margin-left:5.5%;
+    margin-top:3.1%;
+}
+.arrow img {
+    width:8.59375%;
+    max-width:55px;
+}
+
+.logo {
+    text-align:center;
+    margin:6.3% 41% 10.6% 30.8%;
+}
+
+.logo img {
+    width:100%;
+    max-width:181px;
+}
+
+.mainBody {
+    font-size:2.4vw;
+    text-align:left;
+    margin-left:14%;
+    margin-right:14%;
+}
+
+.footer {
+    position:relative;
+    padding:40% 0;
+}
+.contact {
+    position:absolute;
+    left:19.06%;
+    text-align:left;
+    font-size:3vmin;
+    width:19.06%;
+}
+
+.ppt {
+    position:absolute;
+    right:19.06%;
+    text-align:left;
+    font-size:3vmin;
+    width:19.06%;
+}
+
+.contact img, .ppt img {
+    display:block;
+    width:100%;
+    max-width:121px;
+    margin-bottom:3.4375%;
+}
+
+
+
+
+
+
